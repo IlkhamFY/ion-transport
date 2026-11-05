@@ -1,0 +1,34 @@
+structure_id,formula,ion,family,v3_status,ea_eis_eV,ea_nmr_long_eV,primary_Ea_eV,primary_method,primary_doi
+mp-950995,Li6PS5I,Li,argyrodite,score,0.46,0.44,0.44,31P spin-lock high-T flank,10.1021/acs.jpcc.1c06242
+mp-2251,Li3N,Li,nitride,no_long_range_target,,,,,
+mp-985591,Li6PS5Br,Li,argyrodite,score,0.362,,0.362,"EIS, solution-processed, heat-treated at 550 C",10.1039/c9ra00949c
+mp-28326,LiGaBr4,Li,halide,score_with_caveat,0.49,,0.49,"EIS total, bulk vs grain boundary unresolved, 20-60 C",10.1039/d5sc03999a
+mp-29151,Li5NCl2,Li,nitride,score,0.471,,0.471,"EIS, bulk-dominated",10.1021/acsaem.2c03551
+mp-720509,Li10Si(PS6)2,Li,sulfate,no_long_range_target,,,,,
+mp-2715468,Na3HfZrSi2PO12,Na,NASICON,score,0.302,,0.302,EIS bulk,10.1038/s41467-023-40669-0
+mp-2646947,NaB11H12C,Na,organic/hybrid,no_long_range_target,,,,,
+mp-532695,Na3Zr2Si2PO12,Na,NASICON,score_with_caveat,,,,,
+mp-985592,Li6PS5Cl,Li,argyrodite,score,0.35,0.29,0.35,"EIS, BMA sample, same paper as the 0.29 eV long-range SLR",10.1021/acsami.8b07476
+mp-676109,Li3InCl6,Li,halide,score,0.22,,0.22,"EIS, THF-derived, highest-conductivity sample in that series",10.1002/advs.202403208
+mp-1192133,LiBH4,Li,borohydride,score,0.68,,0.68,"EIS, orthorhombic powder, Table 1",10.3390/molecules27072187
+mp-10167,Na3SbS4,Na,sulfate,score,0.25,,0.25,"EIS, pristine Na3SbS4",10.1002/advs.75364
+mp-985583,Li3PS4,Li,sulfate,score,0.42,,0.42,"EIS, liquid-phase Li3PS4 without glass microfiber",10.1021/acsami.3c01383
+mp-1195718,Li4SnS4,Li,sulfate,score,,0.54,0.54,7Li 1/T1rho BPP peak,10.1021/acs.jpcc.0c10224
+mp-4770,Na2SO4,Na,sulfate,no_long_range_target,,,,,
+mp-13725,Li3PO4,Li,oxide glass,no_long_range_target,,,,,
+mp-29080,Na3YBr6,Na,halide,score,0.15,,0.15,"EIS bulk, 500 C sinter",10.1039/d4ra02663b
+mp-30249,Li4GeS4,Li,sulfate,score,0.457,0.55,0.55,7Li 1/T1rho BPP peak,10.1021/acs.jpcc.0c10224
+mp-1598,Na3P,Na,other,no_long_range_target,,,,,
+mp-8703,Na3SbSe4,Na,thioantimonate,score,0.193,,0.193,EIS,10.1038/s41598-018-27301-8
+mp-557964,Li9S3N,Li,nitride-sulfide,score,0.47,,0.47,"EIS, ordered Li9S3N",10.1021/jacs.5c02784
+mp-28782,Na3PS4,Na,sulfate,score,0.317,,0.317,"EIS, tetragonal Na3PS4",10.1038/srep33733
+mp-3427,LiAlO2,Li,oxide,no_long_range_target,,,,,
+mp-1210931,LiFeCl4,Li,halide,score,0.74,,0.74,EIS,10.1021/acs.chemmater.4c01385
+mp-22983,LiAlCl4,Li,halide,score,0.473,,0.473,"EIS, not DC",10.1021/acsmaterialslett.1c00055
+mp-23416,Li2ZnCl4,Li,halospinel,score,0.79,,0.79,EIS up to 85 C,10.1021/acs.chemmater.6c00461
+mp-641703,Li7P3S11,Li,sulfate,score,0.27,,0.27,"EIS, ethyl-propionate route, 250 C",10.1039/d5ra05281e
+mp-942733,Li7La3Zr2O12,Li,garnet,phase_mismatch,0.504,,,"EIS, undoped pellet, arcs not resolved",10.3390/molecules30092028
+mp-1194700,Li4SnSe4,Li,thio-LISICON,score,,0.69,0.69,7Li 1/T1rho BPP peak,10.1021/acs.jpcc.0c10224
+mp-675104,Na3YCl6,Na,halide,score,0.9,,0.9,"EIS bulk, 304-344 K",10.1039/d5sc10183b
+mp-696138,Li10Ge(PS6)2,Li,LGPS,score_with_caveat,0.31,0.275,0.275,"7Li SAE, near-ambient",10.1021/jacs.5c10283
+mp-1101885,Na4P2S6,Na,thiophosphate,score_with_caveat,0.56,,0.56,stated beta-phase conductivity barrier,10.1021/jacs.5c05339

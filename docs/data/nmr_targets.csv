@@ -1,0 +1,34 @@
+mp_id,formula,family,primary_method,v3_status
+mp-950995,Li6PS5I,argyrodite,31P spin-lock high-T flank,score
+mp-2251,Li3N,nitride,nan,no_long_range_target
+mp-985591,Li6PS5Br,argyrodite,"EIS, solution-processed, heat-treated at 550 C",score
+mp-28326,LiGaBr4,halide,"EIS total, bulk vs grain boundary unresolved, 20-60 C",score_with_caveat
+mp-29151,Li5NCl2,nitride,"EIS, bulk-dominated",score
+mp-720509,Li10Si(PS6)2,sulfate,nan,no_long_range_target
+mp-2715468,Na3HfZrSi2PO12,NASICON,EIS bulk,score
+mp-2646947,NaB11H12C,organic/hybrid,nan,no_long_range_target
+mp-532695,Na3Zr2Si2PO12,NASICON,nan,score_with_caveat
+mp-985592,Li6PS5Cl,argyrodite,"EIS, BMA sample, same paper as the 0.29 eV long-range SLR",score
+mp-676109,Li3InCl6,halide,"EIS, THF-derived, highest-conductivity sample in that series",score
+mp-1192133,LiBH4,borohydride,"EIS, orthorhombic powder, Table 1",score
+mp-10167,Na3SbS4,sulfate,"EIS, pristine Na3SbS4",score
+mp-985583,Li3PS4,sulfate,"EIS, liquid-phase Li3PS4 without glass microfiber",score
+mp-1195718,Li4SnS4,sulfate,7Li 1/T1rho BPP peak,score
+mp-4770,Na2SO4,sulfate,nan,no_long_range_target
+mp-13725,Li3PO4,oxide glass,nan,no_long_range_target
+mp-29080,Na3YBr6,halide,"EIS bulk, 500 C sinter",score
+mp-30249,Li4GeS4,sulfate,7Li 1/T1rho BPP peak,score
+mp-1598,Na3P,other,nan,no_long_range_target
+mp-8703,Na3SbSe4,thioantimonate,EIS,score
+mp-557964,Li9S3N,nitride-sulfide,"EIS, ordered Li9S3N",score
+mp-28782,Na3PS4,sulfate,"EIS, tetragonal Na3PS4",score
+mp-3427,LiAlO2,oxide,nan,no_long_range_target
+mp-1210931,LiFeCl4,halide,EIS,score
+mp-22983,LiAlCl4,halide,"EIS, not DC",score
+mp-23416,Li2ZnCl4,halospinel,EIS up to 85 C,score
+mp-641703,Li7P3S11,sulfate,"EIS, ethyl-propionate route, 250 C",score
+mp-942733,Li7La3Zr2O12,garnet,"EIS, undoped pellet, arcs not resolved",phase_mismatch
+mp-1194700,Li4SnSe4,thio-LISICON,7Li 1/T1rho BPP peak,score
+mp-675104,Na3YCl6,halide,"EIS bulk, 304-344 K",score
+mp-696138,Li10Ge(PS6)2,LGPS,"7Li SAE, near-ambient",score_with_caveat
+mp-1101885,Na4P2S6,thiophosphate,stated beta-phase conductivity barrier,score_with_caveat

@@ -1,0 +1,45 @@
+{
+ "records": 7078,
+ "papers": 1044,
+ "formulas": 1052,
+ "tierA": 1407,
+ "Li": 6019,
+ "Na": 1059,
+ "linked": 1541,
+ "measured_rows": 4320,
+ "measured_papers": 723,
+ "measured_gold": 2398,
+ "gold_rows": 2402,
+ "open_rows": 13466,
+ "open_papers": 1888,
+ "open_formulas": 1651,
+ "facts_rows": 1355,
+ "facts_papers": 265,
+ "facts_separate": true,
+ "gold_materials": 33,
+ "by_property": {
+  "sigma_total": 5521,
+  "Ea": 1304,
+  "D_other": 118,
+  "sigma_bulk": 67,
+  "D_NMR": 35,
+  "sigma_gb": 33
+ },
+ "by_ea_type": {
+  "arrhenius": 778,
+  "unknown": 232,
+  "nmr_slr": 152,
+  "two_region": 68,
+  "vtf_pseudo": 61,
+  "nmr_t1rho": 13
+ },
+ "years": [
+  2012,
+  2026
+ ],
+ "cross_paper_formulas": 11,
+ "cross_paper_within_half_decade": 9,
+ "cross_paper_median_sd": 0.360209239514588,
+ "sigma_median_sd_decades": 0.36020923951458805,
+ "ea_eis_median_sd_eV": 0.0798559858475194
+}

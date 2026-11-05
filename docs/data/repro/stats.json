@@ -1,0 +1,220 @@
+{
+ "view": "measured lithium and sodium rows in the open file",
+ "records": 4320,
+ "papers": 723,
+ "sigma": {
+  "label": "median of the per-material standard deviations",
+  "median_sd_decades": 0.36020923951458805,
+  "ci95": [
+   0.12700039431684296,
+   0.47405453888077054
+  ],
+  "n_materials": 11,
+  "n_papers": 32,
+  "pooled_sd_decades": 0.5713978426326106,
+  "materials": [
+   {
+    "material": "Li32La15Zr7Ta3O60",
+    "family": "garnet",
+    "ion": "Li",
+    "n_papers": 2,
+    "sd_decades": 1.3598275865642229
+   },
+   {
+    "material": "Na3Zr2Si2PO12",
+    "family": "NASICON",
+    "ion": "Na",
+    "n_papers": 4,
+    "sd_decades": 1.0390508939821557
+   },
+   {
+    "material": "Na3SbS4",
+    "family": "sulfide",
+    "ion": "Na",
+    "n_papers": 3,
+    "sd_decades": 0.47405453888077054
+   },
+   {
+    "material": "Li3YCl6",
+    "family": "halide",
+    "ion": "Li",
+    "n_papers": 3,
+    "sd_decades": 0.45315401886100953
+   },
+   {
+    "material": "Li3AlGe3(PO4)6",
+    "family": "NASICON",
+    "ion": "Li",
+    "n_papers": 2,
+    "sd_decades": 0.43423845400516564
+   },
+   {
+    "material": "Li13Ti17Al3(PO4)30",
+    "family": "NASICON",
+    "ion": "Li",
+    "n_papers": 5,
+    "sd_decades": 0.36020923951458805
+   },
+   {
+    "material": "Li2ZrCl6",
+    "family": "halide",
+    "ion": "Li",
+    "n_papers": 2,
+    "sd_decades": 0.23850937649636647
+   },
+   {
+    "material": "Li6PS5Cl",
+    "family": "argyrodite",
+    "ion": "Li",
+    "n_papers": 4,
+    "sd_decades": 0.19122173676570456
+   },
+   {
+    "material": "Na3PS4",
+    "family": "thiophosphate",
+    "ion": "Na",
+    "n_papers": 3,
+    "sd_decades": 0.12700039431684296
+   },
+   {
+    "material": "Li3PS4",
+    "family": "thiophosphate",
+    "ion": "Li",
+    "n_papers": 2,
+    "sd_decades": 0.04276634660460526
+   },
+   {
+    "material": "Li10Ge(PS6)2",
+    "family": "LGPS-type",
+    "ion": "Li",
+    "n_papers": 2,
+    "sd_decades": 0.002130130435691971
+   }
+  ]
+ },
+ "ea_eis": {
+  "label": "median of the per-material standard deviations, EIS Arrhenius only",
+  "median_sd_eV": 0.0798559858475194,
+  "ci95": [
+   0.052993710318615474,
+   0.10037928073063684
+  ],
+  "n_materials": 16,
+  "n_papers": 43,
+  "pooled_sd_eV": 0.10095881350870346,
+  "materials": [
+   {
+    "material": "Li3YCl6",
+    "formula": "Li3YCl6",
+    "family": "halide",
+    "n_papers": 2,
+    "sd_eV": 0.2892645700029025
+   },
+   {
+    "material": "Na3Zr2Si2PO12",
+    "formula": "Na3Zr2Si2PO12",
+    "family": "NASICON",
+    "n_papers": 6,
+    "sd_eV": 0.10037928073063684
+   },
+   {
+    "material": "Li6PS5Cl",
+    "formula": "Li6PS5Cl",
+    "family": "argyrodite",
+    "n_papers": 6,
+    "sd_eV": 0.08026855963991546
+   },
+   {
+    "material": "Na2PS3",
+    "formula": "Na4P2S6",
+    "family": "thiophosphate",
+    "n_papers": 2,
+    "sd_eV": 0.16687720036002524
+   },
+   {
+    "material": "Li3PO4",
+    "formula": "Li3PO4",
+    "family": "phosphate",
+    "n_papers": 2,
+    "sd_eV": 0.13010764773832478
+   },
+   {
+    "material": "Li3ClO",
+    "formula": "Li3ClO",
+    "family": "antiperovskite",
+    "n_papers": 2,
+    "sd_eV": 0.11313708498984763
+   },
+   {
+    "material": "Li13Ti17Al3(PO4)30",
+    "formula": "Li1.3Al0.3Ti1.7(PO4)3",
+    "family": "NASICON",
+    "n_papers": 3,
+    "sd_eV": 0.07505553499465135
+   },
+   {
+    "material": "Na5Sm(SiO3)4",
+    "formula": "Na5SmSi4O12",
+    "family": "oxide",
+    "n_papers": 2,
+    "sd_eV": 0.09545941546018395
+   },
+   {
+    "material": "Li(BH)6",
+    "formula": "Li(BH)6",
+    "family": "hydride",
+    "n_papers": 2,
+    "sd_eV": 0.09192388155425119
+   },
+   {
+    "material": "Li3InCl6",
+    "formula": "Li3InCl6",
+    "family": "halide",
+    "n_papers": 3,
+    "sd_eV": 0.062324420040088084
+   },
+   {
+    "material": "Li3AlGe3(PO4)6",
+    "formula": "Li1.5Al0.5Ge1.5P3O12",
+    "family": "NASICON",
+    "n_papers": 2,
+    "sd_eV": 0.07944341205512336
+   },
+   {
+    "material": "LiBH4",
+    "formula": "LiBH4",
+    "family": "hydride",
+    "n_papers": 3,
+    "sd_eV": 0.052993710318615474
+   },
+   {
+    "material": "Li3PS4",
+    "formula": "Li3PS4",
+    "family": "thiophosphate",
+    "n_papers": 2,
+    "sd_eV": 0.044547727214752496
+   },
+   {
+    "material": "Li4SnS4",
+    "formula": "Li4SnS4",
+    "family": "sulfide",
+    "n_papers": 2,
+    "sd_eV": 0.019525777033894565
+   },
+   {
+    "material": "Li2ZrCl6",
+    "formula": "Li2ZrCl6",
+    "family": "halide",
+    "n_papers": 2,
+    "sd_eV": 0.01661700935788388
+   },
+   {
+    "material": "Na3SbS4",
+    "formula": "Na3SbS4",
+    "family": "sulfide",
+    "n_papers": 2,
+    "sd_eV": 0.0137687398575346
+   }
+  ]
+ }
+}

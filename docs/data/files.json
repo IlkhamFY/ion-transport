@@ -1,0 +1,84 @@
+{
+ "files": [
+  {
+   "href": "data/ion_transport_LiNa_open.csv",
+   "name": "ion_transport_LiNa_open.csv",
+   "role": "lina",
+   "bytes": 1376903,
+   "sha256": "60e8a9df4bdd016f6de8a35290f87bf705d6ee6faae1bfe798f5c93d83492dbe",
+   "rows": 7078
+  },
+  {
+   "href": "data/ion_transport_open.csv",
+   "name": "ion_transport_open.csv",
+   "role": "open",
+   "bytes": 6369362,
+   "sha256": "d1dfda1ec7d9868b192b43c1e74256bb2144352a0c63d6028558479f7831e17d",
+   "rows": 13466
+  },
+  {
+   "href": "data/ion_transport_open.parquet",
+   "name": "ion_transport_open.parquet",
+   "role": "open",
+   "bytes": 1473467,
+   "sha256": "e94853ed1a508bf4cd7de74e60c98df9da7d78a82551a4cc56d25d302b82f2fe",
+   "rows": 13466
+  },
+  {
+   "href": "data/ion_transport_facts.csv",
+   "name": "ion_transport_facts.csv",
+   "role": "facts",
+   "bytes": 303916,
+   "sha256": "62b5b36859a5b202c7e83f9c621d273dc62dfbead890242a17219d5137b67f70",
+   "rows": 1355
+  },
+  {
+   "href": "data/ion_transport_facts.parquet",
+   "name": "ion_transport_facts.parquet",
+   "role": "facts",
+   "bytes": 77651,
+   "sha256": "6e6d6b0ac53e3eb1016b331054cccf5c75c019eac2b899ddfcb4cf09e65c93c9",
+   "rows": 1355
+  },
+  {
+   "href": "data/gold_targets.csv",
+   "name": "gold_targets.csv",
+   "role": "gold",
+   "bytes": 3135,
+   "sha256": "e562c28f003542da6023c4b0fdd45e23f7508bc094cf6e4d214165aaa1e9c65d",
+   "rows": 33
+  },
+  {
+   "href": "data/rows.json",
+   "name": "rows.json",
+   "role": "rows",
+   "bytes": 1685981,
+   "sha256": "eb2bb1a04bd77737e0da5bf23250e6dd6ed44e13f987e083488d0ee139ce2c15",
+   "rows": 7078
+  },
+  {
+   "href": "data/stats.json",
+   "name": "stats.json",
+   "role": "stats",
+   "bytes": 867,
+   "sha256": "e1231f8792ebeca15192880a3d0c31f6ec4f557f586ad7ab2d94b30ea7f9613e",
+   "rows": null
+  },
+  {
+   "href": "data/schema.json",
+   "name": "schema.json",
+   "role": "schema",
+   "bytes": 1602,
+   "sha256": "daff421ecd9ea6250266a1c95f62fa26e4363e62c183ec1915f43f28fe107524",
+   "rows": null
+  },
+  {
+   "href": "data/repro/stats.json",
+   "name": "stats.json",
+   "role": "repro",
+   "bytes": 4582,
+   "sha256": "2425d7a4c53fa73f2deaaf070a7632962300cdb5e05fdb43d1f97fe2868b2b47",
+   "rows": null
+  }
+ ]
+}
